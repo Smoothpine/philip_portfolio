@@ -4,13 +4,7 @@ const portfolio = () => {
 	return(
 		<div className="w-100 pt5 mb2" style={{backgroundColor: "#f7f9fb", color: "#5085a5"}}>
 		<div className="w-90 center">
-			<h2 className='tc f3 lh-copy ttu fw5 mb2' style={{fontFamily: 'Helvetica, system sans-serif'}}>Projects</h2>
-				<div className="tc mt0 mb5'">
-					<p className="mt0" style={{fontFamily: 'Georgia, system serif'}}>
-						Below here, you can see some of my projects. I've organized them from latest to earliest. 
-						Every one of them has a pair of buttons, one for a live example, the other one for their github repository.
-					</p>
-				</div>
+			<h2 className='tc f3 lh-copy ttu fw5 mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>Projects</h2>
 			<div className="flex flex-wrap mt5">
 				<div className="w-100 hidden bt b--black-10" >
 		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2" style={{fontFamily: 'Helvetica, system sans-serif'}}>Photogenic</h1>

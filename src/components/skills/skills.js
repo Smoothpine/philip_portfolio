@@ -11,7 +11,7 @@ import {ReactComponent as Git} from "./assets/git.svg";
 const skills = () => {
 	return(
 		<div className="w-100 pt5 pb2" style={{backgroundColor: "#687864", color: "#f7f9fb"}}>
-			<h2 className='tc f3 lh-copy ttu fw5 mb2' style={{fontFamily: 'Helvetica, system sans-serif'}}>Skills</h2>
+			<h2 className='tc f3 lh-copy ttu fw5 mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>Skills</h2>
 			<div className="flex justify-center">
 			  <div className="outline mw-20 w-20 w-10-l pa3 mr2 dim">
 			    <Html style={{fill: "#f7f9fb"}} />
