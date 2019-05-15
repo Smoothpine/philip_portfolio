@@ -2,7 +2,7 @@ import React from 'react';
 
 const portfolio = () => {
 	return(
-		<div className="w-100 pt5 mb2" style={{backgroundColor: "#f7f9fb", color: "#687864"}}>
+		<div className="w-100 pt5 mb2" style={{backgroundColor: "#f7f9fb", color: "#5085a5"}}>
 		<div className="w-90 center">
 			<h2 className='tc f3 lh-copy ttu fw5 mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>Projects</h2>
 			<div className="flex flex-wrap mt0">
@@ -16,8 +16,8 @@ const portfolio = () => {
 		  		</div>
 		  		<div className="pa3">
 		  			<p className="tc f6 f5-ns lh-copy measure mv1 flex-end center fw5" style={{fontFamily: 'Helvetica, system serif'}}>
-		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{color: "#687864", borderColor: "#687864"}} href="https://photogenic-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">Go to Project</a>
-		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{color: "#687864", borderColor: "#687864"}} href="https://github.com/Smoothpine/Photogenic-app" target="_blank" rel="noopener noreferrer">Source Code</a>
+		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{backgroundColor: "#687864", color: "#f7f9fb", borderColor: "#687864"}} href="https://photogenic-app.herokuapp.com/" target="_blank" rel="noopener noreferrer">Go to Project</a>
+		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{backgroundColor: "#687864", color: "#f7f9fb", borderColor: "#687864"}} href="https://github.com/Smoothpine/Photogenic-app" target="_blank" rel="noopener noreferrer">Source Code</a>
 		  			</p>
 		  		</div>
 				</div>
@@ -31,8 +31,8 @@ const portfolio = () => {
 		  		</div>
 		  		<div className="pa3">
 		  			<p className="tc f6 f5-ns lh-copy measure mv1 flex-end center fw5" style={{fontFamily: 'Helvetica, system serif'}}>
-		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{color: "#687864", borderColor: "#687864"}} href="https://mighty-shore-29205.herokuapp.com/" target="_blank" rel="noopener noreferrer">Go to Project</a>
-		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{color: "#687864", borderColor: "#687864"}} href="https://github.com/Smoothpine/Yelp-Camp" target="_blank" rel="noopener noreferrer">Source Code</a>
+		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{backgroundColor: "#687864", color: "#f7f9fb", borderColor: "#687864"}} href="https://mighty-shore-29205.herokuapp.com/" target="_blank" rel="noopener noreferrer">Go to Project</a>
+		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{backgroundColor: "#687864", color: "#f7f9fb", borderColor: "#687864"}} href="https://github.com/Smoothpine/Yelp-Camp" target="_blank" rel="noopener noreferrer">Source Code</a>
 		  			</p>
 		  		</div>
 				</div>
@@ -46,8 +46,8 @@ const portfolio = () => {
 		  		</div>
 		  		<div className="pa3">
 		  			<p className="tc f6 f5-ns lh-copy measure mv1 flex-end center fw5" style={{fontFamily: 'Helvetica, system serif'}}>
-		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{color: "#687864", borderColor: "#687864"}} href="http://young-sands-95084.herokuapp.com/" target="_blank" rel="noopener noreferrer">Go to Project</a>
-		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{color: "#687864", borderColor: "#687864"}} href="https://github.com/Smoothpine/DevMatch" target="_blank" rel="noopener noreferrer">Source Code</a>
+		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{backgroundColor: "#687864", color: "#f7f9fb", borderColor: "#687864"}} href="http://young-sands-95084.herokuapp.com/" target="_blank" rel="noopener noreferrer">Go to Project</a>
+		  					<a className="f6 link dim ba bw1 ttu ph3 pv2 mb2 dib mr1 w-50 w-40-l" style={{backgroundColor: "#687864", color: "#f7f9fb", borderColor: "#687864"}} href="https://github.com/Smoothpine/DevMatch" target="_blank" rel="noopener noreferrer">Source Code</a>
 		  			</p>
 		  		</div>
 				</div>
