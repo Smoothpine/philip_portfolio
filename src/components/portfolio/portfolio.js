@@ -11,7 +11,7 @@ const portfolio = () => {
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
 		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif'}}>
-				      	A application utilizing an learning-machine API to detect multiple human faces within a single photograph. It has user registration and login functionality.
+				      	A application utilizing a machine learning API to detect multiple human faces within a single photograph. It has user registration and login functionality.
 		   		 </p>
 		  		</div>
 		  		<div className="pa3">
