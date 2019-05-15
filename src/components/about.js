@@ -2,7 +2,7 @@ import React from 'react';
 
 const about = () => {
 	return(
-		<div className="w-100 pt5 pb2" style={{backgroundColor: "#659dbd", color: "#f7f9fb"}}> 
+		<div className="w-100 pt5 pb2" style={{backgroundColor: "#f7f9fb", color: "#32718F"}}> 
 			<div className="w-90 center tc mb5" >
 				<h2 className='tc f3 lh-copy ttu fw5  mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>About Me</h2>
 				<p className="mv0" style={{fontFamily: 'Georgia, system serif'}}>
