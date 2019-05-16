@@ -4,7 +4,7 @@ const portfolio = () => {
 	return(
 		<div className="w-100 pt5 mb2" style={{backgroundColor: "#f7f9fb", color: "#3262A6"}}>
 		<div className="w-90 center">
-			<h2 className='tc f3 lh-copy ttu fw5 tracked' style={{fontFamily: 'Helvetica, system sans-serif'}}>Portfolio</h2>
+			<h2 className='tc f3 lh-copy ttu fw5' style={{fontFamily: 'Helvetica, system sans-serif', letterSpacing: "0.03em"}}>Portfolio</h2>
 			<div className="flex flex-wrap mt0">
 				<div className="w-100 hidden" >
 		  		<h1 className="f4 mt0 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#3262A6"}}>Photogenic</h1>

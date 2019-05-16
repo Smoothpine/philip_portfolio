@@ -1,4 +1,5 @@
 import React from 'react';
+import './style.css'
 import {ReactComponent as Html} from "./assets/html5.svg";
 import {ReactComponent as Css} from "./assets/css3.svg";
 import {ReactComponent as JavaScript} from "./assets/javascript.svg";
@@ -12,7 +13,7 @@ import {ReactComponent as MongoDB} from "./assets/mongodb.svg";
 const skills = () => {
 	return(
 		<div className="w-100 pt5 pb2" style={{backgroundColor: "#32A0A6", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif'}}>
-			<h2 className='tc f3 ttu fw5 lh-copy tracked' style={{fontFamily: 'Helvetica, system sans-serif'}}>Skills</h2>
+			<h2 className='tc f3 ttu fw5 lh-copy' style={{fontFamily: 'Helvetica, system sans-serif', letterSpacing: "0.03em"}}>Skills</h2>
 			<h1 className="f4 mt0 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
 			<div className="flex justify-center">
 			  <div className="w-20 w-10-l pa3 mh1">
