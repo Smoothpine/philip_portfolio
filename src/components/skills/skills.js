@@ -12,7 +12,7 @@ import {ReactComponent as MongoDB} from "./assets/mongodb.svg";
 
 const skills = () => {
 	return(
-		<div className="w-100 pt5 pb2" style={{backgroundColor: "#32A0A6", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif'}}>
+		<div className="w-100 pt5" style={{backgroundColor: "#32A0A6", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif', paddingBottom: "3.5rem"}}>
 			<h2 className='tc f3 ttu fw5 lh-copy' style={{fontFamily: 'Helvetica, system sans-serif', letterSpacing: "0.03em"}}>Skills</h2>
 			<h1 className="f4 mt0 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
 			<div className="flex justify-center">
@@ -31,16 +31,16 @@ const skills = () => {
 			</div>
 			<div className="flex justify-center">
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">HTML5</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>HTML5</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">CSS3</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>CSS3</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">JavaScript</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>JavaScript</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">React</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>React</h1>
 			  </div>
 			</div>
 			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Server & Databases</h1>
@@ -60,16 +60,16 @@ const skills = () => {
 			</div>
 			<div className="flex justify-center mb5">
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">Node</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>Node</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">Express</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>Express</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">Postgres</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>Postgres</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw3">MongoDB</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3" style={{marginTop: "-0.8em"}}>MongoDB</h1>
 			  </div>
 			  {/*
 			  <div className="mw-20 w-20 w-10-l pa3 mr2">
