@@ -10,7 +10,7 @@ const portfolio = () => {
 		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>Photogenic</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
-		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#687864"}}>
+		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#2F9C83"}}>
 				      	An application utilizing a machine learning API to detect multiple human faces within a single photograph. It has user registration and login functionality.
 		   		 </p>
 		  		</div>
@@ -25,7 +25,7 @@ const portfolio = () => {
 		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>YelpCamp</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
-		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#687864"}}>
+		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#2F9C83"}}>
 				      	A site made for camping enthusiasts, to share and comment on the pictures of campgrounds they’ve visited. Includes user registration and login functionality. It is made with authentication in mind.
 		   		 </p>
 		  		</div>
@@ -40,7 +40,7 @@ const portfolio = () => {
 		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>DevMatch</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
-		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#687864"}}>
+		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#2F9C83"}}>
 				      	A site that has two forms of user registration, free and premium, with actual e-commerce functionality. When the user pays for the premium membership, their card information is handled and secured by a Stripe API.
 		   		 </p>
 		  		</div>
