@@ -4,13 +4,13 @@ const portfolio = () => {
 	return(
 		<div className="w-100 pt5 mb2" style={{backgroundColor: "#f7f9fb", color: "#3262A6"}}>
 		<div className="w-90 center">
-			<h2 className='tc f3 lh-copy ttu fw5' style={{fontFamily: 'Helvetica, system sans-serif'}}>Portfolio</h2>
+			<h2 className='tc f3 lh-copy ttu fw5 tracked' style={{fontFamily: 'Helvetica, system sans-serif'}}>Portfolio</h2>
 			<div className="flex flex-wrap mt0">
 				<div className="w-100 hidden" >
 		  		<h1 className="f4 mt0 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#3262A6"}}>Photogenic</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
-		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#3262A6"}}>
+		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#3262A6", lineHeight: "1.5em"}}>
 				      	An application utilizing a machine learning API to detect multiple human faces within a single photograph. It has user registration and login functionality.
 		   		 </p>
 		  		</div>
@@ -25,7 +25,7 @@ const portfolio = () => {
 		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#3262A6"}}>YelpCamp</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
-		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#3262A6"}}>
+		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#3262A6", lineHeight: "1.5em"}}>
 				      	A site made for camping enthusiasts, to share and comment on the pictures of campgrounds they’ve visited. Includes user registration and login functionality. It is made with authentication in mind.
 		   		 </p>
 		  		</div>
@@ -40,7 +40,7 @@ const portfolio = () => {
 		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#3262A6"}}>DevMatch</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
-		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#3262A6"}}>
+		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#3262A6", lineHeight: "1.5em"}}>
 				      	A site that has two forms of user registration, free and premium, with actual e-commerce functionality. When the user pays for the premium membership, their card information is handled and secured by a Stripe API.
 		   		 </p>
 		  		</div>

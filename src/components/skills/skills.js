@@ -12,19 +12,19 @@ import {ReactComponent as MongoDB} from "./assets/mongodb.svg";
 const skills = () => {
 	return(
 		<div className="w-100 pt5 pb2" style={{backgroundColor: "#32A0A6", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif'}}>
-			<h2 className='tc f3 lh-copy ttu fw5' style={{fontFamily: 'Helvetica, system sans-serif'}}>Skills</h2>
-			<h1 className="f4 mt0 mb0 tc pb3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
+			<h2 className='tc f3 ttu fw5 lh-copy tracked' style={{fontFamily: 'Helvetica, system sans-serif'}}>Skills</h2>
+			<h1 className="f4 mt0 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
 			<div className="flex justify-center">
-			  <div className="outline w-20 w-10-l pa3 mh1">
+			  <div className="w-20 w-10-l pa3 mh1">
 			    <Html style={{fill: "#f7f9fb"}} />
 			  </div>
-			  <div className="outline w-20 w-10-l pa3 mh1">
+			  <div className="w-20 w-10-l pa3 mh1">
 			    <Css style={{fill: "#f7f9fb"}} />
 			  </div>
-			  <div className="outline w-20 w-10-l pa3 mh1">
+			  <div className="w-20 w-10-l pa3 mh1">
 			    <JavaScript style={{fill: "#f7f9fb"}} />
 			  </div>
-			  <div className="outline w-20 w-10-l pa3 mh1">
+			  <div className="w-20 w-10-l pa3 mh1">
 			    <ReactLogo style={{fill: "#f7f9fb"}} />
 			  </div>
 			</div>
@@ -44,16 +44,16 @@ const skills = () => {
 			</div>
 			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Server & Databases</h1>
 			<div className="flex justify-center">
-			  <div className="outline mw-20 w-20 w-10-l pa3 mh1">
+			  <div className="mw-20 w-20 w-10-l pa3 mh1">
 			    <Node style={{fill: "#f7f9fb"}} />
 			  </div>
-			  <div className="outline mw-20 w-20 w-10-l pa3 mh1">
+			  <div className="mw-20 w-20 w-10-l pa3 mh1">
 			    <Express style={{fill: "#f7f9fb"}} />
 			  </div>
-			  <div className="outline mw-20 w-20 w-10-l pa3 mh1">
+			  <div className="mw-20 w-20 w-10-l pa3 mh1">
 			    <Postgres style={{fill: "#f7f9fb"}} />
 			  </div>
-			  <div className="outline mw-20 w-20 w-10-l pa3 mh1">
+			  <div className="mw-20 w-20 w-10-l pa3 mh1">
 			    <MongoDB style={{fill: "#f7f9fb"}} />
 			  </div>		  
 			</div>
