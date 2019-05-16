@@ -12,7 +12,7 @@ import {ReactComponent as MongoDB} from "./assets/mongodb.svg";
 
 const skills = () => {
 	return(
-		<div className="w-100 pt5" style={{backgroundColor: "#32A0A6", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif', paddingBottom: "3.5rem"}}>
+		<div className="w-100 pt5" style={{backgroundColor: "#32A0A6", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif', paddingBottom: "2.45rem"}}>
 			<h2 className='tc f3 ttu fw5 lh-copy' style={{fontFamily: 'Helvetica, system sans-serif', letterSpacing: "0.03em"}}>Skills</h2>
 			<h1 className="f4 mt0 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
 			<div className="flex justify-center">
