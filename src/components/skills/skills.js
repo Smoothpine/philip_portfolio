@@ -30,16 +30,16 @@ const skills = () => {
 			</div>
 			<div className="flex justify-center">
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">HTML5</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">HTML5</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">CSS3</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">CSS3</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">JavaScript</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">JavaScript</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">React</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">React</h1>
 			  </div>
 			</div>
 			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Server & Databases</h1>
@@ -59,16 +59,16 @@ const skills = () => {
 			</div>
 			<div className="flex justify-center mb5">
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">Node</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">Node</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">Express</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">Express</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">Postgres</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">Postgres</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw2">MongoDB</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw3">MongoDB</h1>
 			  </div>
 			  {/*
 			  <div className="mw-20 w-20 w-10-l pa3 mr2">
