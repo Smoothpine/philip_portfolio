@@ -7,7 +7,7 @@ const portfolio = () => {
 			<h2 className='tc f3 lh-copy ttu fw5 mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>Portfolio</h2>
 			<div className="flex flex-wrap mt0">
 				<div className="w-100 hidden" >
-		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw5" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>Photogenic</h1>
+		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>Photogenic</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
 		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#32A0A6"}}>
@@ -22,7 +22,7 @@ const portfolio = () => {
 		  		</div>
 				</div>
 				<div className="w-100 hidden bt b--black-10">
-		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw5" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>YelpCamp</h1>
+		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>YelpCamp</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
 		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#32A0A6"}}>
@@ -37,7 +37,7 @@ const portfolio = () => {
 		  		</div>
 				</div>
 				<div className="w-100 hidden bt b--black-10 pb5">
-		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw5" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>DevMatch</h1>
+		  		<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2-m fw4" style={{fontFamily: 'Helvetica, system sans-serif', color: "#32718F"}}>DevMatch</h1>
 		  		<hr className="mw3 bb b--black-10" />
 		  		<div className="pa3">
 		    		<p className="f6 f5-ns lh-copy measure mv1 tc center" style={{fontFamily: 'Georgia, system serif', color: "#32A0A6"}}>

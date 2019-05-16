@@ -13,7 +13,7 @@ const skills = () => {
 	return(
 		<div className="w-100 pt5 pb2" style={{backgroundColor: "#2F9C83", color: "#f7f9fb", fontFamily: 'Helvetica, system sans-serif'}}>
 			<h2 className='tc f3 lh-copy ttu fw5 mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>Skills</h2>
-			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
+			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Web Technologies</h1>
 			<div className="flex justify-center">
 			  <div className="outline w-20 w-10-l pa3 mh1">
 			    <Html style={{fill: "#f7f9fb"}} />
@@ -30,19 +30,19 @@ const skills = () => {
 			</div>
 			<div className="flex justify-center">
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">HTML5</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">HTML5</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">CSS3</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">CSS3</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">JavaScript</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">JavaScript</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">React</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">React</h1>
 			  </div>
 			</div>
-			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw2" style={{fontFamily: 'Helvetica, system sans-serif'}}>Server & Databases</h1>
+			<h1 className="f4 mt4 mb0 tc pv3 ph5 fw4" style={{fontFamily: 'Helvetica, system sans-serif'}}>Server & Databases</h1>
 			<div className="flex justify-center">
 			  <div className="outline mw-20 w-20 w-10-l pa3 mh1">
 			    <Node style={{fill: "#f7f9fb"}} />
@@ -59,16 +59,16 @@ const skills = () => {
 			</div>
 			<div className="flex justify-center mb5">
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">Node</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">Node</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">Express</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">Express</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">Postgres</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">Postgres</h1>
 			  </div>
 			  <div className="w-20 w-10-l mh1">
-			    <h1 className="tc f6 f5-m lh-copy fw1">MongoDB</h1>
+			    <h1 className="tc f6 f5-m lh-copy fw2">MongoDB</h1>
 			  </div>
 			  {/*
 			  <div className="mw-20 w-20 w-10-l pa3 mr2">
