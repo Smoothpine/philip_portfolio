@@ -4,7 +4,7 @@ const introduction = () => {
 
 
 	return(
-		<div className="w-100 pv5" style={{backgroundColor: "#32718F", color: "#f7f9fb"}}> 
+		<div className="w-100 pv5" style={{backgroundColor: "#3262A6", color: "#f7f9fb"}}> 
 			<div className="w-90 center tc">
 				<div className="center">
 					<h2 className='tc f3 lh-copy ttu fw5  mb4' style={{fontFamily: 'Helvetica, system sans-serif'}}>Contact</h2>
