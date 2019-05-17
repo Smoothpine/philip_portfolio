@@ -8,8 +8,8 @@ const about = () => {
 				<p className="mv0" style={{fontFamily: 'Georgia, system serif', color: "#3262A6", lineHeight: "1.5em"}}>
 					I've always had an interest in web development as someone who loves creation and design. 
 					I am a developer with close to three years of experience of developing and deploying projects to production.
-					Going through that time of practicing and learning has given me a flexible skillset. 
-					One where I can dance between the bounderies of being a Front-End Developer and being a Back-End Developer. 
+					Going through that time of practicing and learning has given me a flexible skill set. 
+					One where I can dance between the boundaries of being a Front-End Developer and being a Back-End Developer. 
 				</p>
 			</div>
 		</div>
